@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "M3U8Kit"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "M3U8Kit."
 
   s.description  = <<-DESC
